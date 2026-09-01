@@ -1,0 +1,4 @@
+/home/user/braque_tsmc/otel-cpp-starter/roll-dice/build/CMakeFiles/dice-server.dir
+/home/user/braque_tsmc/otel-cpp-starter/roll-dice/build/CMakeFiles/coffee-client.dir
+/home/user/braque_tsmc/otel-cpp-starter/roll-dice/build/CMakeFiles/edit_cache.dir
+/home/user/braque_tsmc/otel-cpp-starter/roll-dice/build/CMakeFiles/rebuild_cache.dir

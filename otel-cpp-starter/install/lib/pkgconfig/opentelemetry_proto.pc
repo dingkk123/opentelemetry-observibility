@@ -1,0 +1,15 @@
+# Copyright The OpenTelemetry Authors
+# SPDX-License-Identifier: Apache-2.0
+
+prefix=${pcfiledir}/../..
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenTelemetry - Protocol
+Description: Protocols for spans, metrics, and logs.
+Requires: protobuf
+Version: 1.28.0-dev
+
+Libs: -L${libdir} -lopentelemetry_proto
+Cflags: -I${includedir}  -DOPENTELEMETRY_PROTO_API=
